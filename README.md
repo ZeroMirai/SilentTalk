@@ -132,7 +132,7 @@ Follow these steps to install and set up SilentTalk.
       - 📝`utilis.py`: This file contains utilities for the script.
     - 📁`voice`: This folder stores pre-generated sounds files.
     - 📝`main.py`: Main script for executing the Text-To-Speech version of SilentTalk program.
-    - 📝`test.wav`: This's a sound played when opening the program..
+    - 📝`test.wav`: This's a sound played when opening the program.
 
 ## Configuration
 
@@ -147,7 +147,7 @@ Before running the program, Ensure you have changed all the configurations and *
 
 1. Open VoiceVox engine.
 2. Open `run.bat`.
-3. Follow on-screen prompts and interact with VirtuAI Helper.
+3. Follow on-screen prompts and interact with SilentTalk.
 
 ---
 ## Contributing
