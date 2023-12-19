@@ -100,7 +100,7 @@ Follow these steps to install and set up SilentTalk.
    
 6. Download the project zip file from GitHub or Clone this repository by typing these in terminal or command prompt (but if you choose to download the project as a zip file you'll also need to extract the zip file).
    ```
-   git clone https://github.com/ZeroMirai/name-of-this-repo.git
+   https://github.com/ZeroMirai/SilentTalk.git
    ```
 7. Open a terminal or command prompt and change the directory to the project folder by typing `cd` followed by where this folder is located for example `cd C:\Git_hub\SilentTalk`.
 8. Install all necessary library by typing.
