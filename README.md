@@ -129,13 +129,9 @@ Before running the program, Ensure you have changed all the configurations and *
   
 ## Usage
 
-1. Open a terminal or command prompt and change the directory to the script folder version that you want to use by typing `cd` followed by where this folder is located for example `cd C:\Git_hub\SilentTalk\example_apex_legend\normal_version`.
-2. Open VoiceVox engine.
-3. Run the program using.
-   ```
-   python main.py
-   ```
-4. Follow on-screen prompts and interact with VirtuAI Helper.
+1. Open VoiceVox engine.
+2. Open `run.bat`.
+3. Follow on-screen prompts and interact with VirtuAI Helper.
 
 ---
 ## Contributing
