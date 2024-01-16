@@ -178,7 +178,7 @@ I'm primarily looking for code improvements and bug fixes. Once your changes are
 ## Note
 
 - Ensure that you have the required dependencies and configuration set up before running the code.
-- You need to redo steps 5-8 every time the program is opened.
+- You need to redo steps 4-5 every time the program is opened.
 - Running the program and VoiceVox engine simultaneously is necessary for proper program functionality.
 - Because the TTS version uses a lot of GPU, you may experience a drop in FPS.
 - Using OpenCV for image processing is recommended.
